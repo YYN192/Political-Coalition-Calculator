@@ -15,7 +15,7 @@ You can access the live application [here](https://political-coalition-calculato
    cd political-coalition-calculator
       ```
 3.Install dependencies:
-    ``` 
+     
    ```bash
   flutter pub get
 ```
