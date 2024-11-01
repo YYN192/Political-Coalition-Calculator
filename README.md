@@ -1,16 +1,38 @@
-# coalitions
+# Political Coalition Calculator
 
-A new Flutter project.
+## Description
+The Political Coalition Calculator helps users calculate possible coalitions of political parties based on the number of seats they have won. Users can enter party names and their respective seat counts, and the app will generate coalitions that meet a specified target number of seats.
 
-## Getting Started
+## Live Demo
+You can access the live application [here](https://political-coalition-calculator.firebaseapp.com/).
 
-This project is a starting point for a Flutter application.
+## How to Run Locally
+1. Clone the repository:
+   ```bash
+   git clone <https://github.com/YYN192/Political-Coalition-Calculator>
+2. Navigate to the project directory:
+      ```bash
+   cd political-coalition-calculator
+      ```
+3.Install dependencies:
+    ``` 
+   ```bash
+  flutter pub get
+```
 
-A few resources to get you started if this is your first Flutter project:
+4.Run the app:
+  ```bash
+flutter run
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Dependencies
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+- Google Fonts
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/YYN192/Political-Coalition-Calculator) file for more details.
+
+
+
